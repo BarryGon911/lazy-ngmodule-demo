@@ -39,7 +39,6 @@ pnpm-debug.log*
 
 # Env / credenciales locales
 .env
-.env.*.local
 
 # Misc
 .sass-cache/
